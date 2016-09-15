@@ -51,7 +51,7 @@
                                         <input type="text" class="form-control" id="name" placeholder="Enter name" required="required" />
                                     </div>
                                     <div class="form-group">
-                                        <label for="email">
+                                         <label for="email">
                                             Email Address</label>
                                             <div class="input-group">
                                                 <span class="input-group-addon"><span class="glyphicon glyphicon-envelope"></span>

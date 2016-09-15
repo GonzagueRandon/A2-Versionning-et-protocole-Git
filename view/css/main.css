@@ -24,7 +24,6 @@ input:focus {
 	margin: 0;
 	padding: 0;
 	margin-bottom: 20px;
-	font-size: 15px;
 	text-transform: uppercase;
 	letter-spacing: 1px;
 
@@ -145,6 +144,7 @@ p.account a {
 #topbar {
 	padding: 20px 0;
     
+    
 }
 
 .logo {
@@ -171,7 +171,7 @@ p.account a {
 #topbar a.btn {
 	border: none;
 	background-color: gray;
-	border: solid 1px #F50;
+	border: solid 1px #fff;
 	float: right;
 	line-height: 25px;
 	color:skyblue;
