@@ -13,6 +13,7 @@
 						<a href="add_music.php" class="btn"><i class="fa fa-plus"></i> Ajouter un clip</a>
 						<a href="add_music.php" class="btn"><i class="fa fa-plus"></i> Ajouter une musique</a>
 						<a href="add_music.php" class="btn"> Ma playlist</a>
+						<a href="contact.php" class="btn"> contact</a>
 					</div>
 				</div>
 			</div>

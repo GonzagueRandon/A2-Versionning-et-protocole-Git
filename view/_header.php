@@ -14,4 +14,5 @@
 	<link rel="stylesheet" href="view/css/libs/animate.css">
 	<link rel="stylesheet" href="view/fonts/font-awesome/css/font-awesome.min.css">
 	<link rel="stylesheet" href="view/css/main.css">
+	
 </head>
