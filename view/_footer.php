@@ -35,5 +35,16 @@
 	</script>
 	<?php } ?>
 
+
 </body>
+<footer>
+
+       <a href="https://www.facebook.com/">
+<img src="images/FBlogo.jpg " alt="francetfv-education-logo-mini éducation" style="width:50px;height:50px;"/>
+</a>
+     
+       
+
+    
+</footer>
 </html>
