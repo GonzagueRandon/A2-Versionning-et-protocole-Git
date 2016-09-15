@@ -270,7 +270,7 @@ p.account a {
 	border: none;
 	padding: 10px 20px;
 	color: white;
-	background-color: #2ecc71;
+	background-color: blueviolet;
 }
 
 .image:before {
@@ -412,7 +412,10 @@ p.account a {
 	font-family: monospace;
 	font-size: 10px; /* reduced font size */
 }
-
+.logo{
+    
+ width: 50%;   
+}
 
 
 
