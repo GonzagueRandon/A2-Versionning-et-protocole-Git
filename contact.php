@@ -4,7 +4,7 @@
 <head>
   <meta charset="UTF-8">
   <title>Contact</title>
-  <meta name="description" content="Site Web de l'attraction Space Mountain Mission 2 de DISNEYLAND Paris. L'attraction que vous devez faire si vous souhaitez explorer les confins de l'espace dans cette version décoiffante des montagnes russes classiques. les confins de l'espace dans cette version décoiffante des montagnes russes classiques.">
+  <meta name="description" content="Site Web de SounCloud Streaming Music "
   <meta name="keywords" content="Web, Attraction, Space Mountain 2, sensation forte, DISNEYLAND, Paris, HTML,CSS,JavaScript, fête foraine,Parc d'attraction, réferencement ">
   <meta name="author" content="Adam Benhaddou">
   <link rel="stylesheet" href="css/bootstrap.min.css">
@@ -33,6 +33,7 @@
             <div class="col-sm-12 col-lg-12">
                 <h1 class="h1">
                     Contact us <small>We are listening to you</small></h1>
+                    <img src="images/soundcloud0.jpg"  style="width:304px;height:228px;">
                 </div>
             </div>
         </div>
@@ -88,17 +89,15 @@
                                     <form>
                                         <legend><span class="glyphicon glyphicon-globe"></span> Our office</legend>
                                         <address>
-                                            <strong>IIM, Inc.</strong><br>
-                                            Pôle universitaire Léonard-de-Vinci <br>
-                                            12, avenue Léonard-de-Vinci<br>
-                                            Courbevoie, 92400<br>
+                                            
+                                        
                                             <abbr title="Phone">
                                                 Tel:</abbr>
                                                 0606060606
                                             </address>
                                             <address>
-                                                <strong>Adam Benhaddou</strong><br>
-                                                <a href="mailto:#">adambenhaddou@gmail.com</a>
+                                                <strong>SounCloud</strong><br>
+                                                <a href="mailto:#">soudcloud@Sound.com</a>
                                             </address>
                                         </form>
                                     </div>
