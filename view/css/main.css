@@ -1,10 +1,14 @@
 body {
 <<<<<<< HEAD
+<<<<<<< HEAD
 	background-color: #3C3434;
 	color : white ;
 =======
 	background-color: whitesmoke;
 >>>>>>> b26699fe2bba91e34a0b4f0b514152d11e65e961
+=======
+	background-color: darkslategrey;
+>>>>>>> 21c7a1227dbd9b0b3a00f51d7f5c17e6bb345803
 }
 
 input:focus {
@@ -204,7 +208,7 @@ p.account a {
 	padding-bottom: 20px;
 	letter-spacing: 1px;
 	border-bottom: 1px solid #CCC;
-	color : white;
+	color : black;
 }
 
 .music,
