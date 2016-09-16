@@ -247,8 +247,8 @@ p.account a {
 .music .author img,
 .block .author img {
 	display: inline-block;
-	max-width: 100%;
-	border-radius: 100%;
+	max-width: 300%;
+	
 }
 
 .music p.title {
