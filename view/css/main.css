@@ -149,7 +149,10 @@ p.account a {
 	color: white;
 }
 
-
+.bg {
+	width : 100%;
+	height: 100%;
+}
 #topbar {
 	padding: 20px 0;
     
