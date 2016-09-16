@@ -17,7 +17,7 @@ input:focus {
 }
 
 #logbox.register {
-	background-color: blue;
+	background-color: #ff000000;
 }
 
 #logbox h1 {
@@ -205,7 +205,7 @@ p.account a {
 .music,
 .block {
 	padding: 30px;
-	background-color: bisque;
+	background-color: ;
 	margin-top: 20px;
 	-webkit-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
 	-moz-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
