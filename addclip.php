@@ -16,8 +16,7 @@
                         <a href="contact.php" class="btn"> contact</a>
                         <a href="edit_image.php" class="btn">Profil</a>
                         <a href="add_music.php" class="btn"><i class="fa fa-plus"></i> Ajouter une musique</a>
-                        <a href="add_music.php" class="btn"><i class="fa fa-plus"></i> Ajouter un clip</a>
-                        <a href="add_music.php" class="btn"><i class="fa fa-plus"></i> Ajouter une musique</a>
+                        <a href="addclip.php" class="btn"><i class="fa fa-plus"></i> Ajouter un clip</a>
                         <a href="playlist.php" class="btn"> Ma playlist</a>
                     </div>
                 </div>
@@ -36,7 +35,7 @@
 							<div class="col-xs-10 col-sm-10 col-md-11 col-lg-11">
 								<?php
 								if(isset($error) && !empty($error)){
-									echo '
+                                        echo '
 									<div class="alert alert-danger alert-dismissable">
 										<button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>
 										'.$error.'
