@@ -22,7 +22,7 @@
                         <a href="register.php" class="btn">S'inscrire</a>
                         <?php
                         }
-                        else {                
+                        else {                x
                         ?>   
                         
                         <a href="logout.php" class="btn">Se déconnecter</a> 
@@ -30,12 +30,10 @@
                         <?php
                         }
                         ?>
-
-
-                        <a href="add_music.php" class="btn"><i class="fa fa-plus"></i> Ajouter un clip</a>
 						<a href="add_music.php" class="btn"><i class="fa fa-plus"></i> Ajouter une musique</a>
+						<a href="addclip.php" class="btn"><i class="fa fa-plus"></i> Ajouter un clip</a>
 						<a href="dashboard.php" class="btn"><i class="fa fa-plus"></i> Playlist</a>
-						<a href="dashboard.php" class="btn"> accueil</a>
+						<a href="dashboard.php" class="btn">Accueil</a>
 					</div>
 				</div>
 			</div>
