@@ -1,5 +1,5 @@
 <body>
-<link rel="stylesheet" href="view/css/main.css">
+<link rel="stylesheet" href="view/css/playlist.css">
 	<?php include '_topbar.php'; ?>
 	<div class="container">
 		<div class="row">
@@ -30,7 +30,7 @@
 											Extensions autorisées : .mp3, .ogg
 										</p>
 									</div>
-									<p class="clearfix"><button type="submit" class="valid pull-right"><i class="fa fa-check"></i>ajouter a la playlist</button></p>
+									<p class="clearfix"><button type="submit" class="valid pull-right"><i class="fa fa-check"></i>Ajouter a la playlist</button></p>
 								</form>
 
 							</div>
