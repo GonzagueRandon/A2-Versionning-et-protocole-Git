@@ -33,7 +33,7 @@
 								<b class="username"><?php echo $_SESSION['username']; ?></b>
 								<p>
 									<br>
-									Extensions autorisées : .jpg, .png et .gif
+									      Extensions autorisées : .jpg, .png et .gif
 								</p>
 								<form action="edit_image.php" method="POST" enctype="multipart/form-data">
 									<input type="file" name="image">
