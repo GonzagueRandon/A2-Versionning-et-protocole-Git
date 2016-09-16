@@ -1,7 +1,10 @@
-<body>
+   
+      <body>
        
         <link rel="stylesheet" href="view/css/main.css">
-        
+    <link rel="stylesheet" href="view/css/libs/bootstrap.min.css">
+	<link rel="stylesheet" href="view/css/libs/animate.css">
+	<link rel="stylesheet" href="view/fonts/font-awesome/css/font-awesome.min.css">    
 	<?php include '_topbar.php'; ?>
 	<div class="row" style="background-color: #333;margin:0">
     <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">

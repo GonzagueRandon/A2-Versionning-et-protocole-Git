@@ -9,7 +9,7 @@
 						
 					</div>
 					<div class="col-xs-10 col-sm-10 col-md-11 col-lg-11">
-
+s
 						<a href="contact.php" class="btn">Contact</a>
                         <a href="edit_image.php" class="btn">Profil</a>
 
