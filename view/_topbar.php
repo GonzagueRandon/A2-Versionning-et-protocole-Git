@@ -10,6 +10,7 @@
 					<div class="col-xs-10 col-sm-10 col-md-11 col-lg-11">
 
 						<a href="contact.php" class="btn">Contact</a>
+                        <a href="edit_image.php" class="btn">Profil</a>
 
 						
 						
@@ -30,12 +31,10 @@
                         ?>
 
 
-
+                        <a href="add_music.php" class="btn"><i class="fa fa-plus"></i> Ajouter un clip</a>
 						<a href="add_music.php" class="btn"><i class="fa fa-plus"></i> Ajouter une musique</a>
-						<a href="add_music.php" class="btn"><i class="fa fa-plus"></i> Ajouter un clip</a>
-						<a href="add_music.php" class="btn"><i class="fa fa-plus"></i> Ajouter une musique</a>
-						<a href="add_music.php" class="btn"><i class="fa fa-plus"></i> Playlist</a>
-						<a href="dashboard.php" class="btn"> acceuil</a>
+						<a href="dashboard.php" class="btn"><i class="fa fa-plus"></i> Playlist</a>
+						<a href="dashboard.php" class="btn"> accueil</a>
 					</div>
 				</div>
 			</div>
