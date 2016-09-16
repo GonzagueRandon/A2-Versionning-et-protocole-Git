@@ -7,6 +7,7 @@ if( isset($_FILES['music']) && !empty($_FILES['music']) &&
 	isset($_POST['title']) && !empty($_POST['title'])){
 	
 	$file = $_FILES['music'];
+    $title = htmlspecialchars($_POST["title"]);
 
 	// Si le "fichier" reçu est bien un fichier
 		$ext = strtolower(substr(strrchr($file['name'], '.')  ,1));
@@ -15,7 +16,13 @@ if( isset($_FILES['music']) && !empty($_FILES['music']) &&
 			$filename = md5(uniqid(rand(), true));
 			$destination = "musics/{$filename}.{$_SESSION['id']}.{$ext}";
 
-			// TODO
+			$result = move_uploaded_file($file["tmp_name"], $destination);
+			if($result){
+				addMusic($db, $_SESSION["id"], $_POST['title'], $destination);
+			}
+			else{
+				echo "Upload fail";
+            }
 
 		} else {
 			$error = 'Erreur, le fichier n\'a pas une extension autorisée !';
