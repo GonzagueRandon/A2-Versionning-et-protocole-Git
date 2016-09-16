@@ -32,7 +32,7 @@ s
                         ?>
 						<a href="add_music.php" class="btn"><i class="fa fa-plus"></i> Ajouter une musique</a>
 						<a href="addclip.php" class="btn"><i class="fa fa-plus"></i> Ajouter un clip</a>
-						<a href="dashboard.php" class="btn"><i class="fa fa-plus"></i> Playlist</a>
+						<a href="playlist.php" class="btn"><i class="fa fa-plus"></i> Playlist</a>
 						<a href="dashboard.php" class="btn">Accueil</a>
 					</div>
 				</div>
