@@ -49,7 +49,7 @@
           </div>
       </div>
   </div>
->>>>>>> 025760a2c58a3ce6b0e7831c5a828026da920368
+
 </div>
         <!-- Formulaire de Contact -->
         <div class="jumbotron jumbotron-sm">

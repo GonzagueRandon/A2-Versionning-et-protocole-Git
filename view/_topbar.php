@@ -29,15 +29,11 @@
                         <?php
                         }
                         ?>
-
-
-<<<<<<< HEAD
-
 						<a href="add_music.php" class="btn"><i class="fa fa-plus"></i> Ajouter une musique</a>
 						<a href="addclip.php" class="btn"><i class="fa fa-plus"></i> Ajouter un clip</a>
-=======
+
                         <a href="add_music.php" class="btn"><i class="fa fa-plus"></i> Ajouter un clip</a>
->>>>>>> 939d088a2dc6e355ec205cf252996f7b6c931c21
+
 						<a href="add_music.php" class="btn"><i class="fa fa-plus"></i> Ajouter une musique</a>
 						<a href="dashboard.php" class="btn"><i class="fa fa-plus"></i> Playlist</a>
 						<a href="dashboard.php" class="btn"> accueil</a>
