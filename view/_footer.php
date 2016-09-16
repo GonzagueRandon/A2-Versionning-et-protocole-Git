@@ -38,7 +38,7 @@
 
 </body>
 <footer>
-<div id="logo">
+
        <a href="https://www.facebook.com/">
 <img src="images/FBlogo.jpg "  style="width:50px;height:50px;"/>
 </a>
@@ -48,7 +48,7 @@
       <a href="https://www.instagram.com/">
 <img src="images/INSTAlogo.jpg " style="width:50px;height:50px;"/>
 </a>
-    </div>   
+     
 
     
 </footer>
