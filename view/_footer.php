@@ -35,11 +35,9 @@
 	</script>
 	<?php } ?>
 
-<<<<<<< HEAD
 
 </body>
-
-=======
+<footer>
 <a style="margin-left: 50%;">
        <a href="https://www.facebook.com/">
 <img src="images/FBlogo.jpg "  style="width:50px;height:50px; "/>
@@ -53,11 +51,6 @@
 </a>
      
 
-</body>
-
-
-
     
-
->>>>>>> cb0bad18fa3705ba0c95ad50906bee2887c20d4a
+</footer>
 </html>

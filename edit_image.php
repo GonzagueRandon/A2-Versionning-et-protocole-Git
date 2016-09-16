@@ -28,4 +28,3 @@ if(isset($_FILES['image']) && !empty($_FILES['image'])){
 
 include 'view/_header.php';
 include 'view/edit_image.php';
-include 'view/_footer.php';

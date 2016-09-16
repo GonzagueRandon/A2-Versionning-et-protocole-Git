@@ -103,7 +103,7 @@
                                         <textarea name="message" id="message" class="form-control" rows="9" cols="25" required="required" placeholder="Message"></textarea>
                                     </div>
                                 </div>
-                                </font>
+                                </font>    
                                 <div class="col-md-12">
                                     <button type="submit" class="btn btn-primary pull-right" id="btnContactUs">
                                         Send Message</button>
@@ -115,10 +115,7 @@
                 <div class="col-md-4">
                     <form>
                         <legend><span class="glyphicon glyphicon-globe"></span> Our office</legend>
-                        <address>
-                                            
-                                        
-                                            <abbr title="Phone">
+                        <address><abbr title="Phone">
                                                 Tel:</abbr>
                                                 0606060606
                                             </address>
