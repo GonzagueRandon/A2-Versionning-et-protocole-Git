@@ -37,20 +37,5 @@
 
 
 </body>
-<footer>
-<a style="margin-left: 50%;">
-       <a href="https://www.facebook.com/">
-<img src="images/FBlogo.jpg "  style="width:50px;height:50px; "/>
-</a>
-      <a href="https://www.twitter.com/">
-<img src="images/TWlogo.jpg "  style="width:50px;height:50px;"/>
-</a>
-      <a href="https://www.instagram.com/">
-<img src="images/INSTAlogo.jpg " style="width:50px;height:50px;"/>
-</a>
-</a>
-     
 
-    
-</footer>
 </html>
