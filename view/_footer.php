@@ -4,7 +4,7 @@
 	<script src="view/js/libs/midway.min.js"></script>
 
 	<script src="view/js/main.js"></script>
-
+<link rel="stylesheet" href="../view/css/main.css">
 	<?php if(basename($_SERVER['PHP_SELF']) == 'dashboard.php'){ ?>
 	<audio preload></audio>
 
@@ -48,7 +48,7 @@
       <a href="https://www.instagram.com/">
 <img src="images/INSTAlogo.jpg " style="width:50px;height:50px;"/>
 </a>
-       
+     
 
     
 </footer>
