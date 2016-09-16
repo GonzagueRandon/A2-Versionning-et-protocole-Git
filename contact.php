@@ -132,3 +132,42 @@
     </body>
 
     </html>
+
+
+    <body>
+    <?php include '_topbar.php'; ?>
+
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                <div id="musicfeed">
+                    
+                  
+                            <div class="row">
+                                <div class="col-xs-2 col-sm-2 col-md-1 col-lg-1">
+                                    <div class="author">
+                                        <?php 
+                                            $sql = "SELECT picture FROM users WHERE id = :id LIMIT 1";
+                                            $req = $db->prepare($sql);
+                                            $req->execute(array(
+                                                ':id' => $music['user_id']
+                                            ));
+                                            $result = $req->fetch(PDO::FETCH_ASSOC);
+                                            if(!empty($result)){
+                                                echo '<img class="" src="'.$result['picture'].'" alt="">';
+                                            }
+                                            else{
+                                                echo '<img src="view/profil_pic/undefined.jpg" alt=""></a>';
+                                            }
+                                        ?>
+                                    </div>
+                                </div>
+                               
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+</body>
+
+
