@@ -35,7 +35,29 @@
 	</script>
 	<?php } ?>
 
+<<<<<<< HEAD
 
 </body>
 
+=======
+<a style="margin-left: 50%;">
+       <a href="https://www.facebook.com/">
+<img src="images/FBlogo.jpg "  style="width:50px;height:50px; "/>
+</a>
+      <a href="https://www.twitter.com/">
+<img src="images/TWlogo.jpg "  style="width:50px;height:50px;"/>
+</a>
+      <a href="https://www.instagram.com/">
+<img src="images/INSTAlogo.jpg " style="width:50px;height:50px;"/>
+</a>
+</a>
+     
+
+</body>
+
+
+
+    
+
+>>>>>>> cb0bad18fa3705ba0c95ad50906bee2887c20d4a
 </html>
